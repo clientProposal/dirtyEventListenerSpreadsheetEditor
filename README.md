@@ -1,5 +1,5 @@
 # steps 
-1. git clone https://github.com/clientProposal/dirtyEventListenerSpreadsheetEditor
+1. git clone https://github.com/clientProposal/dirtyEventListenerSpreadsheetEditor.git
 2. cd dirtyEventListenerSpreadsheetEditor
 3. npm i 
 4. npm run dev
